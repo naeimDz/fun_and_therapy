@@ -12,7 +12,6 @@ class GameCard extends StatelessWidget {
   final Game game;
   @override
   Widget build(BuildContext context) {
-    Size size = MediaQuery.of(context).size;
     final currentLocal = context.read<LangProvider>().getLang();
     final isRtl = isCurrentLocaleRtl(currentLocal);
 

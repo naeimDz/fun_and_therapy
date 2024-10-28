@@ -12,7 +12,7 @@ class GameDetailBottom extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final currentLocal = context.read<LangProvider>().getLang();
-    final isRtl = isCurrentLocaleRtl(currentLocal);
+    isCurrentLocaleRtl(currentLocal);
     return Container(
       //height: 650,
       width: double.infinity,
