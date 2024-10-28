@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../constants/app_colors.dart';
 import '../constants/app_defaults.dart';
+import '../constants/app_text_styles.dart';
 
 class AppTheme {
-  /// Add your custom font name here, which you added in [pubspec.yaml] file
-  static const fontName = '';
-
   /// A light theme for App
   static ThemeData get lightTheme => ThemeData(
-      textTheme: ThemeData.light().textTheme.apply(fontFamily: fontName),
+      textTheme: ThemeData.light()
+          .textTheme
+          .apply(fontFamily: AppTextStyles.fontFamily),
       scaffoldBackgroundColor: AppColors.scaffoldBackground,
       cardColor: AppColors.cardColor,
       canvasColor: AppColors.cardColor,
@@ -38,14 +38,14 @@ class AppTheme {
         iconTheme: IconThemeData(color: AppColors.primary),
         titleTextStyle: TextStyle(
           color: Colors.black,
-          fontFamily: fontName,
+          fontFamily: AppTextStyles.fontFamily,
         ),
         centerTitle: true,
       ),
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
-          primary: AppColors.primary,
-          onPrimary: Colors.white,
+          foregroundColor: Colors.white,
+          backgroundColor: AppColors.primary,
           padding: const EdgeInsets.all(AppDefaults.padding),
           shape: RoundedRectangleBorder(
             borderRadius: AppDefaults.borderRadius,
@@ -54,7 +54,7 @@ class AppTheme {
       ),
       outlinedButtonTheme: OutlinedButtonThemeData(
         style: OutlinedButton.styleFrom(
-          primary: AppColors.primary,
+          foregroundColor: AppColors.primary,
           side: const BorderSide(color: AppColors.primary),
           padding: const EdgeInsets.all(AppDefaults.padding),
           shape: RoundedRectangleBorder(
@@ -77,16 +77,17 @@ class AppTheme {
         unselectedLabelColor: AppColors.cardColorDark.withOpacity(0.5),
         indicatorSize: TabBarIndicatorSize.label,
         labelStyle: const TextStyle(
-          fontFamily: fontName,
+          fontFamily: AppTextStyles.fontFamily,
           fontWeight: FontWeight.bold,
         ),
-        unselectedLabelStyle: const TextStyle(fontFamily: fontName),
+        unselectedLabelStyle:
+            const TextStyle(fontFamily: AppTextStyles.fontFamily),
       ));
 
   /// A Dark theme for App
   static ThemeData get darkTheme => ThemeData(
         textTheme: ThemeData.dark().textTheme.apply(
-              fontFamily: fontName,
+              fontFamily: AppTextStyles.fontFamily,
               displayColor: Colors.white,
               bodyColor: Colors.white,
             ),
@@ -126,14 +127,14 @@ class AppTheme {
           ),
           titleTextStyle: TextStyle(
             color: Colors.white,
-            fontFamily: fontName,
+            fontFamily: AppTextStyles.fontFamily,
           ),
           centerTitle: true,
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
-            primary: AppColors.primary,
-            onPrimary: Colors.white,
+            foregroundColor: Colors.white,
+            backgroundColor: AppColors.primary,
             padding: const EdgeInsets.all(AppDefaults.padding),
             shape: RoundedRectangleBorder(
               borderRadius: AppDefaults.borderRadius,
@@ -142,7 +143,7 @@ class AppTheme {
         ),
         outlinedButtonTheme: OutlinedButtonThemeData(
           style: OutlinedButton.styleFrom(
-            primary: AppColors.primary,
+            foregroundColor: AppColors.primary,
             side: const BorderSide(color: AppColors.primary),
             padding: const EdgeInsets.all(AppDefaults.padding),
             shape: RoundedRectangleBorder(
@@ -164,10 +165,11 @@ class AppTheme {
           unselectedLabelColor: AppColors.cardColor.withOpacity(0.5),
           indicatorSize: TabBarIndicatorSize.label,
           labelStyle: const TextStyle(
-            fontFamily: fontName,
+            fontFamily: AppTextStyles.fontFamily,
             fontWeight: FontWeight.bold,
           ),
-          unselectedLabelStyle: const TextStyle(fontFamily: fontName),
+          unselectedLabelStyle:
+              const TextStyle(fontFamily: AppTextStyles.fontFamily),
         ),
       );
 }

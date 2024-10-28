@@ -1,0 +1,638 @@
+[
+   {
+   "naem": "Playing with Cookie",
+   "description": "Question and answer game: exchanging questions between children and the parrot, such as the parrot asking children about their well-being in its playful way and beautiful voice.",
+   "time": "20 min",
+   "purpose": [
+   "Enhancing interaction among children",
+   "Positive impact on the behavior of children facing problems (trauma, illness, etc.)",
+   "Ease of forming a friendship bond with animals",
+   "Reducing stress, anxiety, and depression",
+   "Feeling of happiness, affinity, and reducing feelings of loneliness",
+   "Enabling children to express their emotions and reactions more"
+   ],
+   "tools": ["Parrot Cookie"],
+   "color": "",
+   "image":"assets/images/1.jpg" 
+  },
+  {
+    "naem": "Repetition Game",
+    "description": "The child verbalizes a sentence and the clever parrot repeats it in a playful way.",
+    "time": "10 minutes",
+    "purpose": [
+    "Enhancing interaction among children",
+    "Positively impacting the behavior of children experiencing difficulties (trauma, illness, etc.)",
+    "Facilitating the formation of friendships with animals",
+    "Reducing stress, anxiety, and depression",
+    "Promoting a sense of happiness, familiarity, and reducing feelings of loneliness",
+    "Enabling the child to express their emotions and reactions more easily"
+    ],
+    "tools": [
+    "Parrot named Cookie"
+    ],
+    "color": "",
+    "image": "assets/images/1.jpg"
+    },
+    {
+      "naem": "Choice Game",
+      "description": "The parrot is placed on its owner's finger, and then the children are asked to call it. The child whom the parrot chooses receives a kiss from it.",
+      "time": "5 minutes",
+      "purpose": [
+      "Enhancing interaction among children",
+      "Positively impacting the behavior of children experiencing difficulties (trauma, illness, etc.)",
+      "Facilitating the formation of friendships with animals",
+      "Reducing stress, anxiety, and depression",
+      "Promoting a sense of happiness, familiarity, and reducing feelings of loneliness",
+      "Enabling the child to express their emotions and reactions more easily"
+      ],
+      "tools": [
+      "Parrot named Cookie"
+      ],
+      "color": "",
+      "image": "assets/images/1.jpg"
+      },
+   {
+   "naem": "Who am I Game",
+   "description": "We stick various animal pictures on the children's backs. We choose a child each time without them knowing the type of animal in the picture stuck on their back. To know the animal, the child needs to ask questions like 'Do I live in the ocean?' and the other children answer with yes or no.",
+   "time": "10 min",
+   "purpose": [
+   "Encouraging children to play together",
+   "Helping children learn cognitive skills"
+   ],
+   "tools": ["Animal pictures"],
+   "color": "",
+   "image":"assets/images/2.jpg" 
+  },
+   {
+   "naem": "Rabbits and Foxes Game",
+   "description": "We divide the children into two groups: the first group as rabbits and the second group as foxes. The rabbits gather in one area, and then the leader of the rabbits, 'the rabbits,' comes out. The foxes make noise, and the rabbits run. The one who can escape is the winner of the game.",
+   "time": "10 min",
+   "purpose": [
+   "Encouraging children to play together",
+   "Boosting physical immunity through movement",
+   "Working as a team and motivating each child to overcome their illness"
+   ],
+   "tools": ["Flat space"],
+   "color": "",
+   "image":"assets/images/3.jpg"  
+   },
+   {
+   "naem": "Animal Imitation Game",
+   "description": "We shuffle the cards and ask each child to choose a specific card. Every child who gets a card must act like the animal on their card, for example, licking their hand and then wiping it on their head while imitating the sound of a cat's 'meow.'",
+   "time": "10 min",
+   "purpose": [
+   "Imitating animal movements and sounds",
+   "Entertaining and amusing the children",
+   "Developing the ability to represent and be creative in role-playing"
+   ],
+   "tools": ["Animal cards"],
+   "color": "",
+   "image":"assets/images/4.jpg" 
+   },
+   {
+    "naem": "Funny Program Show",
+    "description": "Show a clip from the movie 'DCR Patch' \n - A clip from the TV series 'Mr. Bean' \n A clip from the TV series 'Shaun the Sheep'.",
+    "time": "10 minutes",
+    "purpose": [
+    "Entertaining the child",
+    "Expanding the child's horizons and awareness",
+    "Developing imaginative skills"
+    ],
+    "tools": [
+    "Computer",
+    "Projector"
+    ],
+    "color": "",
+    "image": "assets/images/5.jpg"
+    },
+   {
+   "naem": "Maze Game",
+   "description": "Various-sized and colored puzzle pieces are placed in the shape of lines (maze). The maze has multiple paths and contains an entrance with a ball. To solve it, the child needs to find the correct path, reach the end, and take the ball out of the maze's exit.",
+   "time": "10 min",
+   "purpose": [
+   "Entertaining the child",
+   "Enhancing their cognitive skills",
+   "Building confidence and the ability to accomplish tasks"
+   ],
+   "tools": ["Puzzle pieces", "Small ball"],
+   "color": "",
+   "image":"assets/images/6.jpg" 
+   },
+   {
+   "naem": "Assembly Game",
+   "description": "Asking the children to assemble a 'house,' 'tree,' etc. using puzzle pieces.",
+   "time": "10 min",
+   "purpose": [
+   "Puzzle games rely on sharpening the child's cognitive abilities",
+   "This game helps with planning as the child moves from the stage of random construction to the planning stage"
+   ],
+   "tools": ["Puzzle pieces"],
+   "color": "",
+   "image":"assets/images/17.jpg" 
+   },
+   {
+      "naem":"Puzzle Game",
+      "description":"Children assemble puzzle pieces one by one to create a complete and clear picture.",
+      "time":"10 min",
+      "purpose":["Teaching children skills such as classification, sequencing, lengths, areas, differences, colors, observation, comparison, analysis, balance principle, prediction...",
+      "The child's focus on the game makes them forget physical pain."],
+      "tools":["Puzzle pieces"],
+      "color":"",
+      "image":"assets/images/8.jpg" 
+    },
+      {
+      "naem":"Bubble Game",
+      "description":"We put soap and water in the bubble game and blow to create bubbles that float in the air. The children compete to burst the bubbles. They race to see who can blow the biggest bubble.",
+      "time":"5 min",
+      "purpose":["Encouraging children to play together.",
+      "Developing counting skills during blowing (focus).",
+      "Reducing stress and psychological pressure."],
+      "tools":["Soap", "Water", "Bubble game"],
+      "color":"",
+      "image":"assets/images/9.jpg" 
+    },
+      {
+      "naem":"Treasure Hunt",
+      "description":"Certain objects are hidden in different places in the room, then the children are called to search for and find them.",
+      "time":"10 min",
+      "purpose":["Easy and entertaining game.",
+      "Motivating children to think and guess.",
+      "A new non-traditional game with an element of adventure."],
+      "tools":["Various objects (animals, candies, etc.)"],
+      "color":"",
+      "image":"assets/images/42.jpg" 
+    },
+      {
+      "naem":"Indoor Bowling Game",
+      "description":"The room is divided into lanes, and bottles are placed at the end of each lane. One by one, the children are asked to throw the ball and try to knock down all the bottles. The one who manages to knock down all the bottles is the winner.",
+      "time":"5 min",
+      "purpose":["Developing the child's motor, sensory, and visual skills.",
+      "Improving focus and developing targeting and aiming skills.",
+      "Strengthening muscles.",
+      "Promoting blood circulation.",
+      "Reducing stress."],
+      "tools":["Bowling bottles (bottles or water cups)", "Balls"],
+      "color":"",
+      "image":"assets/images/18.jpg" 
+    },
+      {
+      "naem":"Crossing Game",
+      "description":"Placing cones, plates, etc. on the room's floor. The children line up and, upon a whistle blow, each child starts crossing over the cones, jumping on pillars and plates, and then grabbing the ball.",
+      "time":"5 min",
+      "purpose":["Physical and sports games have a positive impact on the child's health.",
+      "Teaching the child how to harmonize within a group.",
+      "Learning motor skills such as balance, activating mental performance."],
+      "tools":["Plastic cones", "Plastic balls", "Plastic pillars", "Plastic plates", "Plastic circular rings"],
+      "color":"",
+      "image":"assets/images/10.jpg" 
+    },
+      {
+      "naem":"Bowling Circles Game",
+      "description":"Each child tries to throw the circles and land them on the plastic bottles.",
+      "time":"5 min",
+      "purpose":["It has value in nurturing the child according to psychological health standards."],
+      "tools":["Bowling bottles", "Plastic circles"],
+      "color":"",
+      "image":"assets/images/12.jpg" 
+    },
+      {
+         "naem":"Circle Game",
+         "description":"Placing circles on a flat surface, children are asked to rotate around the circle and chant phrases (inside the circle, outside the circle). When saying 'inside' or 'outside'...",
+         "time":"5 min",
+         "purpose":["Maintaining bone health","Balance and sensory-motor coordination","Activating blood circulation"],
+         "tools":["Plastic circles"],
+         "color":"",
+         "image":"assets/images/7.jpg" 
+        },
+         {
+         "naem":"Dice Game",
+         "description":"Children sit in a circle and place a bowling bottle in the middle, then spin it. The child at whom it stops is given the dice with numbered faces. The child throws it when seeing the number that appears on the dice. The children then jump the number of times indicated.",
+         "time":"5 min",
+         "purpose":["Eliminating boredom","Enjoying the game","Entertainment for children"],
+         "tools":["Dice","Bowling bottle"],
+         "color":"",
+         "image":"assets/images/11.jpg" 
+        },
+         {
+         "naem":"Freeze Game",
+         "description":"Music is played on the guitar, and children dance and sing along. When the music stops, everyone is asked to freeze in the same position and gestures...",
+         "time":"15 min",
+         "purpose":["Music affects heart rate and improves mood","Dancing helps children move and improve blood and oxygen flow","Singing along with music helps children express and release negative emotions and feelings","Music plays a role in treating psychological problems"],
+         "tools":["Musical guitar"],
+         "color":"",
+         "image":"assets/images/43.jpg" 
+        },
+         {
+         "naem":"Chair Game",
+         "description":"Chairs are arranged in a circular shape (fewer chairs than the total number of children). Music is played on the guitar, and children are asked to dance around the chairs. When the music stops, they have to sit on the chairs. The child without a chair is out of the game.",
+         "time":"15 min",
+         "purpose":["Developing competitive spirit and playfulness in children, and racing for chairs","Music affects heart rate and improves mood","Music makes children happy and uplifts their spirits as it represents a form of liberation","Improving sleep and eliminating insomnia","Boosting immunity"],
+         "tools":["Musical guitar","Set of chairs"],
+         "color":"",
+         "image":"assets/images/13.jpg" 
+        },
+         {
+         "naem":"Moving Ball Game",
+         "description":"Children sit in a circle while moving the ball to each other. Music is played on the guitar. Each child tries to get rid of the ball before the music stops. Then the music is stopped, and the child holding the ball at the end is out. The last child remaining is the winner and gets to perform on the guitar.",
+         "time":"15 min",
+         "purpose":["Reducing tension","Improving blood circulation"],
+         "tools":["Plastic ball","Guitar (Can be replaced with music)"],
+         "color":"",
+         "image":"assets/images/14.jpg" 
+        },
+         {
+         "naem":"Dough Sculpting Game",
+         "description":"Children are asked to shape anything they want using the dough (freeform sculpting), then they are asked to shape the dough into animals, flowers, houses, etc. (guided sculpting).",
+         "time":"5 min",
+         "purpose":["Easy and entertaining game","Encouraging children to think and imagine","A new non-traditional game that involves a sense of adventure"],
+         "tools":["Colored dough"],
+         "color":"",
+         "image":"assets/images/16.jpg" 
+        },
+         {
+         "naem":"Dough Maze",
+         "description":"Create interconnected dough circles with two entrances for inserting and removing a small ball by blowing on it using the mouth.",
+         "time":"15 min",
+         "purpose":["Improving focus and developing aiming and targeting skills","Developing children's motor, sensory, and visual skills"],
+         "tools":["Ball","Dough"],
+         "color":"",
+         "image":"assets/images/15.jpg" 
+        },
+        {
+          "naem": "Fantasy Cooking Game",
+          "description": "Each time, a child takes on the role of a chef and cooks using cooking utensils.",
+          "time": "15 minutes",
+          "purpose": [
+          "Improving cooking skills",
+          "Supporting a sense of accomplishment",
+          "Playing roles that allow for the expression of emotions such as anxiety, anger, and loneliness"
+          ],
+          "tools": [
+          "Edible ingredients",
+          "Cooking utensils (spoon, plastic pot)"
+          ],
+          "color": "",
+          "image": "assets/images/20.jpg"
+          },
+         {
+         "naem":"Rock, Paper, Scissors Game",
+         "description":"Rock is represented by making a fist, paper by opening the hand, and scissors by making a two-finger shape using the index and middle fingers. These gestures are done simultaneously and quickly. The game rules are as follows: rock beats scissors, paper beats rock, and scissors beat paper.",
+         "time":"15 min",
+         "purpose":["Easy and entertaining game","Encouraging children to think and guess"],
+         "tools":["Children's hands (two children at a time)"],
+         "color":"",
+         "image":"assets/images/37.jpg" 
+         },{
+            "naem": "Touch Box",
+            "description": "A hole is cut in a cardboard box that is small enough for a child's hand to fit in. Different objects are placed inside, and the child is asked to identify the objects through touch only.",
+            "time": "10 min",
+            "purpose": [
+              "Enjoyment of the game",
+              "Memory enhancement",
+              "Focus and attention"
+            ],
+            "tools": [
+              "Various objects (animals, etc.)",
+              "Box"
+            ],
+            "color": "",
+            "image":"assets/images/19.jpg" 
+          },
+          {
+            "naem": "Question and Answer Game with Qarqoor",
+            "description": "The doll 'Qarqoor' asks children questions in a funny way and also receives questions from children and answers them in a humorous manner. It also provides children with indirect, positive, and humorous advice.",
+            "time": "10 min",
+            "purpose": [
+              "Children's joy when seeing the doll and its way of speaking and moving",
+              "The doll's humorous style has a positive impact on improving mental well-being",
+              "Sending doses of optimism to children"
+            ],
+            "tools": [
+              "Doll 'Qarqoor' (hand puppet) that speaks through its owner (ventriloquism)"
+            ],
+            "color": "",
+            "image":"assets/images/21.jpg" 
+          },
+          {
+            "naem": "Sing Along with Qarqoor",
+            "description": "The doll 'Qarqoor' asks children about their favorite songs and sings along with them.",
+            "time": "10 min",
+            "purpose": [
+              "Spreading joy and happiness to children and singing along with them"
+            ],
+            "tools": [
+              "Doll 'Qarqoor'"
+            ],
+            "color": "",
+            "image":"assets/images/21.jpg" 
+          },
+          {
+            "naem": "Qarqoor Says Game",
+            "description": "Children are directed to only do what is said if the command starts with 'Qarqoor says'. If the children do anything without hearing that phrase, they are out of the game.",
+            "time": "10 min",
+            "purpose": [
+              "Focusing with the doll on the phrase and attempting to control and monitor themselves from speaking to avoid being out of the game. Children learn focus and consequently ignore negative thoughts from this game."
+            ],
+            "tools": [
+              "Doll 'Qarqoor'"
+            ],
+            "color": "",
+            "image":"assets/images/21.jpg" 
+          },
+          {
+            "naem": "Jokes and Riddles with Qarqoor",
+            "description": "The doll 'Qarqoor' tells funny jokes and riddles to children and encourages them to guess and answer.",
+            "time": "10 min",
+            "purpose": [
+              "Improving cognitive processes while searching for answers to riddles",
+              "Making children laugh when hearing jokes"
+            ],
+            "tools": [
+              "Doll 'Qarqoor'"
+            ],
+            "color": "",
+            "image":"assets/images/21.jpg" 
+          },
+          {
+            "naem": "Colorful Balloon Game",
+            "description": "Colored balloons are inflated and thrown, and children are asked to catch as many balloons of a specific color (chosen by them) as possible. The one with the most balloons of the same color is the winner.",
+            "time": "5 min",
+            "purpose": [
+              "Running to try to catch balloons stimulates blood circulation",
+              "Children acquire counting skills (focus)",
+              "Children's love for balloons makes it a fun game for them"
+            ],
+            "tools": [
+              "Colored balloons"
+            ],
+            "color": "",
+            "image":"assets/images/22.jpg" 
+            },{
+            "naem": "Land, Sea, and Air Game",
+            "description": "Children stand on the line (sticky tape), and when 'land' is said, children stand on the right side. When 'sea' is said, children stand on the left side. When 'air' is said, children stay in their place and jump.",
+            "time": "5 min",
+            "purpose": [
+              "Focus",
+              "Building confidence in children",
+              "Stimulating blood circulation in the body"
+            ],
+            "tools": [
+              "Sticky tape"
+            ],
+            "color": "",
+            "image":"assets/images/23.jpg" 
+          },
+          {
+            "naem": "Chasing Game",
+            "description": "Children are divided into two groups and take turns. Group 1: They carry plastic guns and chase. Group 2: They try to escape despite obstacles (mines using tape with a + sign, a wall of pillows).",
+            "time": "5 min",
+            "purpose": [
+              "Understanding the importance of time and teamwork",
+              "Reducing anxiety hormones",
+              "Stimulating blood circulation"
+            ],
+            "tools": [
+              "Sticky tape",
+              "Pillows",
+              "Plastic guns"
+            ],
+            "color": "",
+            "image":"assets/images/41.jpg" 
+          },
+          {
+            "naem": "Doll Making Game",
+            "description": "We fill the sock with stuffing, which consists of wool and shape it into a body. We use buttons for eyes and thread for the mouth, and the children play with the dolls. They can also play freely and shape roles (family, doctor, etc.). Ready-made dolls can also be added and used.",
+            "time": "10 min",
+            "purpose": [
+              "Emotional and expressive release of children's bottled-up feelings",
+              "Developing inner self-talk",
+              "Developing social skills"
+            ],
+            "tools": [
+              "Wool",
+              "Buttons",
+              "Thread",
+              "Scissors",
+              "Socks"
+            ],
+            "color": "",
+            "image":"assets/images/24.jpg" 
+          },
+          {
+            "naem": "Mechanic Game",
+            "description": "Each time, one of the children plays the role of a mechanic and tries to fix something in the room using mechanic tools.",
+            "time": "10 min",
+            "purpose": [
+              "Role-playing to release emotions (stress, anxiety, etc.)"
+            ],
+            "tools": [
+              "Plastic saw",
+              "Plastic pliers",
+              "Plastic drill",
+              "Plastic screwdriver",
+              "Plastic hammer"
+            ],
+            "color": "",
+            "image":"assets/images/25.jpg" 
+          },
+          {
+            "naem": "Shadow Game",
+            "description": "A side of the cardboard box is cut and transparent paper is stuck on it. Different objects are placed behind the transparent paper inside the box, and children are asked to recognize the shadows.",
+            "time": "10 min",
+            "purpose": [
+              "Darkness enhances specific brain centers and makes them more active and thus more resistant to illness",
+              "Developing children's skills such as visual perception"
+            ],
+            "tools": [
+              "Objects (animals, trees, etc.)",
+              "Transparent paper",
+              "Cardboard box"
+            ],
+            "color": "",
+            "image":"assets/images/26.jpg" 
+          },
+          {
+            "naem": "Magic Show Game",
+            "description": "A coin is placed under one of the cups among the cups, then the cups are mixed together on the table. Children are asked to choose the cup under which the coin is located.",
+            "time": "",
+            "purpose": [
+              "Focus",
+              "Thinking and guessing for children",
+              "Entertainment for children"
+            ],
+            "tools": [
+              "Coin",
+              "3 empty cups"
+            ],
+            "color": "",
+            "image":"assets/images/29.jpg" 
+          },
+          {
+            "naem": "Flying Plates",
+            "description": "Cut cardboard into circular shapes (plates) and color them with different colors. Then play with them by throwing them at the children and ask them to catch them. The one who has the most plates is the winner.",
+            "time": "",
+            "purpose": [
+              "Challenging the child to develop skills to achieve victory by making an effort",
+              "Stimulating blood circulation"
+            ],
+            "tools": [
+              "Scissors",
+              "Colors",
+              "Cardboard"
+            ],
+            "color": "",
+            "image":"assets/images/28.jpg" 
+          },
+          {
+            "naem": "Mandala Game",
+            "description": "The Mandala game is a complex drawing inside a circle with many spaces, and the game is to color those spaces and use ready-made drawings in the form of flowers, butterflies, animals, etc.",
+            "time": "",
+            "tools": [
+              "Wooden colors",
+              "Printed ready-made drawings"
+            ],
+            "purpose": [
+              "During coloring, the child gets rid of problems and sorrows that occupy them and gives them a break from negative thoughts. This game is used in psychological therapy for its variety of colors and its treatment of many diseases (such as depression, anxiety, aggression, etc.)"
+            ],
+            "color": "",
+            "image":"assets/images/36.jpg" 
+            },{
+            "naem": "Car Racing Game",
+            "description": "Place the cars on a straight line, push the cars when the whistle blows, and the car that reaches the finish line first is the winner.",
+            "time": "",
+            "purpose": [
+              "Developing social and physical skills in children",
+              "Playing with cars is a favorite activity for children",
+              "Contributes to the development of children's abilities"
+            ],
+            "tools": [
+              "Plastic cars",
+              "Adhesive tape"
+            ],
+            "color": "",
+            "image":"assets/images/30.jpg" 
+          },
+          {
+            "naem": "Airplane Racing Game",
+            "description": "Each child places their airplanes in front of the starting line and then pushes them.",
+            "time": "",
+            "purpose": [
+              "Children's love for airplanes and their joy in playing with them",
+              "Mobile games play a role in developing mechanical skills"
+            ],
+            "tools": [
+              "Plastic airplanes"
+            ],
+            "color": "",
+            "image":"assets/images/31.jpg" 
+          },
+          {
+            "naem": "Shooting Game",
+            "description": "Using a ball gun, place a '+' mark on the wall, and the child tries to hit the '+' mark using the ball gun.",
+            "time": "",
+            "purpose": [
+              "Fun game that relies on focus",
+              "Physical and mental activity for the child"
+            ],
+            "tools": [
+              "Balls",
+              "Ball gun"
+            ],
+            "color": "",
+            "image":"assets/images/32.jpg" 
+          },
+          {
+            "naem": "Basketball Game",
+            "description": "The one who puts the most balls into the basket within a specified time is the winner.",
+            "time": "10 min",
+            "purpose": [
+              "Promoting a healthy body and increasing mental and personal activity"
+            ],
+            "tools": [
+              "Basket",
+              "Plastic balls"
+            ],
+            "color": "",
+            "image":"assets/images/33.jpg" 
+          },
+          {
+            "naem": "Children's Yoga",
+            "description": "Training children in simple yoga poses like the 'cat stretch' position.",
+            "time": "",
+            "purpose": [
+              "Enhancing children's flexibility",
+              "Relaxation"
+            ],
+            "tools": [
+              "Yoga mat",
+              "Open space"
+            ],
+            "color": "",
+            "image":"assets/images/34.jpg" 
+          },
+          {
+            "naem": "Theatrical Play",
+            "description": "Divide the children into roles (e.g., clown, dwarfs).",
+            "time": "",
+            "purpose": [
+              "Role-playing in a child's life has a compensatory function, which involves developing the child's ability to surpass boundaries and meet their needs in a compensatory way. This type of play serves as an alternative to reality and provides a sense of satisfaction.",
+              "Theatrical play is a creative game that involves imagination, speculation, questioning, and exploration. It plays a role in developing a child's creative thinking.",
+              "Through their role-playing, children can understand the perspectives of others, such as playing the role of a father, doctor, or teacher."
+            ],
+            "tools": [
+              "Theatrical costumes (prince, witch, dwarfs, etc.)"
+            ],
+            "color": "",
+            "image":"assets/images/35.jpg" 
+          },
+          {
+            "naem": "Party Organization Game",
+            "description": "Organize and decorate the hall together with the children, involve them in inflating balloons, and cutting the cake together.",
+            "time": "",
+            "purpose": [
+              "Promoting positive values in children",
+              "Teaching responsibility and accomplishment",
+              "Children's love for balloons and colors makes them happy"
+            ],
+            "tools": [
+              "Music player",
+              "Food",
+              "Decorations for the hall",
+              "Colorful balloons"
+            ],
+            "color": "",
+            "image":"assets/images/38.jpg" 
+          },
+          {
+            "naem": "Clown Circle Game",
+            "description": "Form a circle of children and perform movements together with the clown while playing music, such as rotating, lifting legs and hands, and jumping.",
+            "time": "",
+            "purpose": [
+              "Improving energy levels",
+              "Lowering blood sugar levels",
+              "Children's love for clowns and their joy in playing with them",
+              "Balance control"
+            ],
+            "tools": [
+              "Music player",
+              "Clown"
+            ],
+            "color": "",
+            "image":"assets/images/39.jpg" 
+          },
+          {
+            "naem": "Tug of War Game",
+            "description": "Divide the children into two teams or divide the children into a competing team against the clown. Both teams pull the rope with force when the whistle blows, and they continue until one team succeeds in pulling the rope from the losing team.",
+            "time": "10 min",
+            "purpose": [
+              "Cooperation and team spirit in children",
+              "Strengthening the heart and increasing oxygen",
+              "Strength and tension"
+            ],
+            "tools": [
+              "Rope"
+            ],
+            "color": "",
+            "image":"assets/images/40.jpg" 
+          }
+   ]

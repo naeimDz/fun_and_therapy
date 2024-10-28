@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppTextStyles {
-  static const String fontFamily = 'Rubik';
+  static const String fontFamily = 'Dubai';
 
   static const TextStyle h1 = TextStyle(
     fontFamily: fontFamily,
@@ -17,6 +17,7 @@ class AppTextStyles {
   static const TextStyle h3 = TextStyle(
     fontFamily: fontFamily,
     fontSize: 30,
+    fontWeight: FontWeight.w400,
   );
 
   static const TextStyle h4 = TextStyle(
@@ -28,7 +29,7 @@ class AppTextStyles {
   static const TextStyle h5 = TextStyle(
     fontFamily: fontFamily,
     fontSize: 20,
-    fontWeight: FontWeight.w500,
+    fontWeight: FontWeight.w700,
   );
 
   static const TextStyle body = TextStyle(
