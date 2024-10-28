@@ -71,17 +71,17 @@ class Cardgamie extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      margin: EdgeInsets.symmetric(
+      margin: const EdgeInsets.symmetric(
         horizontal: 17,
         vertical: 7,
       ),
       child: ListTile(
-        title: Text("اسم اللعبة"),
-        leading: CircleAvatar(child: Text("time")),
+        title: const Text("اسم اللعبة"),
+        leading: const CircleAvatar(child: Text("time")),
         minLeadingWidth: 10,
-        subtitle: Text("SubTitle"),
+        subtitle: const Text("SubTitle"),
         trailing: Container(
-          padding: EdgeInsets.symmetric(
+          padding: const EdgeInsets.symmetric(
             horizontal: 30, // 30 px padding
             vertical: 5, // 5 px padding
           ),
@@ -89,7 +89,7 @@ class Cardgamie extends StatelessWidget {
             color: Colors.deepPurple,
             borderRadius: BorderRadius.circular(22),
           ),
-          child: Text('تفاصيل اللعبة'),
+          child: const Text('تفاصيل اللعبة'),
         ),
       ),
     );

@@ -6,7 +6,6 @@ import 'config/themes/theme_constants.dart';
 import 'screen/home_page/home_page.dart';
 
 void main() async {
-
   WidgetsFlutterBinding.ensureInitialized();
   runApp(ChangeNotifierProvider(
     create: (_) => LangProvider(),
@@ -29,6 +28,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       localizationsDelegates: context.localizationDelegates,
       supportedLocales: context.supportedLocales,
       locale: context.read<LangProvider>().getLang(),
